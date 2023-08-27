@@ -28,11 +28,10 @@
     "ethereum",
     "smart",
     "contracts",
-    "a16z",
-    "metaip"
+    "metaip",
     "NFT"
   ],
-  "author": "metaip from yielddao",
+  "author": "metaip project from yielddao.io",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/YieldDAO-Foundation/metaip-contracts/issues"

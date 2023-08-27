@@ -27,8 +27,7 @@ You can also find the full licenses and cover letter in this repo [here](/licens
 ## Installation 
 Install the Cant Be Evil License smart contracts in your hardhat project:
 ```
-git clone repo
-npm install
+npm install metaip-contracts
 ```
 
 ### Usage
@@ -50,7 +49,7 @@ enum LicenseVersion {
 Pass the desired version into the `CantBeEvil` constructor, as shown:
 
 ```solidity
-import {LicenseVersion, CantBeEvil} from "@metaip/contracts/licenses/CantBeEvil.sol";
+import {LicenseVersion, CantBeEvil} from "@metaip-contracts/contracts/licenses/CantBeEvil.sol";
 
 contract MyContract is CantBeEvil(LicenseVersion.METAIP_COMMUNITY) {
     ...
