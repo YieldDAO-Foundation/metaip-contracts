@@ -1,0 +1,44 @@
+{
+  "name": "metaip-contracts",
+  "description": "metaip Smart Contract library for Solidity",
+  "version": "0.0.9",
+  "files": [
+    "contracts/**/*.sol"
+  ],
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "arweave": "^1.11.4",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.1",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.8",
+    "hardhat": "^2.9.6",
+    "hardhat-gas-reporter": "^1.0.8"
+  },
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/YieldDAO-Foundation/MetaIP.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "a16z",
+    "metaip"
+    "NFT"
+  ],
+  "author": "metaip from yielddao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YieldDAO-Foundation/MetaIP/issues"
+  },
+  "homepage": "https://metaip.xyz",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
