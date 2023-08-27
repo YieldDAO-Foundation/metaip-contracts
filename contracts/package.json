@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/a16z/a16z-contracts.git"
+        "url": "git+https://github.com/YieldDAO-Foundation/metaip-contracts.git"
     },
     "keywords": [
         "solidity",
@@ -26,7 +26,7 @@
     "author": "a16z crypto",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/a16z/a16z-contracts/issues"
+        "url": "https://github.com/YieldDAO-Foundation/metaip-contracts/issues"
     },
-    "homepage": "https://github.com/a16z/a16z-contracts#readme"
+    "homepage": "https://github.com/YieldDAO-Foundation/metaip-contracts#readme"
 }

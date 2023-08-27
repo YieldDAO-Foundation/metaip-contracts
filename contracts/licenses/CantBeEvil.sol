@@ -43,12 +43,13 @@ contract CantBeEvil is ERC165, ICantBeEvil {
     }
 
     function _getLicenseVersionKeyByValue(LicenseVersion _licenseVersion) internal pure returns (string memory) {
-        require(uint8(_licenseVersion) <= 6);
+        require(uint8(_licenseVersion) <= 7);
         if (LicenseVersion.PUBLIC == _licenseVersion) return "PUBLIC";
         if (LicenseVersion.EXCLUSIVE == _licenseVersion) return "EXCLUSIVE";
         if (LicenseVersion.COMMERCIAL == _licenseVersion) return "COMMERCIAL";
         if (LicenseVersion.COMMERCIAL_NO_HATE == _licenseVersion) return "COMMERCIAL_NO_HATE";
         if (LicenseVersion.PERSONAL == _licenseVersion) return "PERSONAL";
-        else return "PERSONAL_NO_HATE";
+        if (LicenseVersion.PERSONAL_NO_HATE == _licenseVersion) return "PERSONAL_NO_HATE";
+        else return "METAIP_COMMUNITY";
     }
 }

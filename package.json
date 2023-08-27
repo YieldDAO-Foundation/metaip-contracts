@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/YieldDAO-Foundation/MetaIP.git"
+    "url": "git+https://https://github.com/YieldDAO-Foundation/metaip-contracts.git"
   },
   "keywords": [
     "solidity",
@@ -35,7 +35,7 @@
   "author": "metaip from yielddao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YieldDAO-Foundation/MetaIP/issues"
+    "url": "https://github.com/YieldDAO-Foundation/metaip-contracts/issues"
   },
   "homepage": "https://metaip.xyz",
   "dependencies": {
