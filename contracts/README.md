@@ -18,8 +18,7 @@ There are seven (0~6) variants of the MetaIP license:
 3.	[Non-Exclusive Commercial Rights with Creator Retention & Hate Speech Termination (“COMMERCIAL-NO-HATE”)](https://arweave.net/2om8up8MggA9XZJMgvTeENMJhhV6x5preREexjP-xL4/3) – Full non-exclusive commercial rights granted, with hate speech termination.  Creator retains exploitation rights. 
 4.	[Personal License (“PERSONAL”)](https://arweave.net/2om8up8MggA9XZJMgvTeENMJhhV6x5preREexjP-xL4/4) – Personal rights granted, without hate speech termination.
 5.	[Personal License with Hate Speech Termination (“PERSONAL-NO-HATE”)](https://arweave.net/2om8up8MggA9XZJMgvTeENMJhhV6x5preREexjP-xL4/5) – Personal rights granted, with hate speech termination.
-
-6.	[Personal License with Hate Speech Termination (“PERSONAL-NO-HATE”)](https://arweave.net/2om8up8MggA9XZJMgvTeENMJhhV6x5preREexjP-xL4/6) – Holder community rights Maximization granted, with creator retention &  no hate speech terms
+6.	[Holder community License with no hate speech terms(“METAIP-COMMUNITY-NO-HATE”)](https://arweave.net/2om8up8MggA9XZJMgvTeENMJhhV6x5preREexjP-xL4/6) – Holder community rights Maximization granted, with creator retention &  no hate speech terms.
 
 The text of the Licenses is made freely available to the public under the terms of CC0 1.0 Universal.
 You can also find the full licenses and cover letter in this repo [here](/licenses/).
