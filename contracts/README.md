@@ -65,8 +65,11 @@ MyContract.getLicenseURI() // => "https://arweave.net/2om8..."
 This contract is meant to be inherited by NFT contracts and any contract that wishes to expose the `getLicenseURI` and `getLicenseName` methods.
 
 ### contracts/examples/MyToken.sol
-An example NFT contract that inherits `CantBeEvil`.
+An example NFT contract that inherits `@metaip-contracts/contracts/licenses/CantBeEvil.sol`.
 
+
+### Subscribe and Website
+To obtain ongoing information about “NFT IP RWA”, please subscribe to the official website: https://metaip.xyz
 
 ## Disclaimer
 
